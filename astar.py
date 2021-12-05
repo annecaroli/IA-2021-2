@@ -1,5 +1,4 @@
 import sys
-from termcolor import colored, cprint
 
 class Node:
     # classe noh
